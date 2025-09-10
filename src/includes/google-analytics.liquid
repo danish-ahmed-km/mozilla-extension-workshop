@@ -1,0 +1,11 @@
+<script>if(!(window.doNotTrack === "1" || navigator.doNotTrack === "1" || navigator.doNotTrack === "yes" || navigator.msDoNotTrack === "1")) {
+  const lastScriptElm = document.getElementsByTagName("script")[0];
+  const scriptElm = document.createElement("script");
+  scriptElm.async = 1;
+  scriptElm.src = "https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}";
+  lastScriptElm.parentNode.insertBefore(scriptElm, lastScriptElm);
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+  gtag("config", "{{ site.google_analytics }}");
+}</script>

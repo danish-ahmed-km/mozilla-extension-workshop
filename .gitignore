@@ -1,0 +1,9 @@
+*.log
+.sass-cache
+node_modules/
+.DS_Store
+__MACOSX/
+.vscode/*
+build
+dist
+coverage

@@ -1,0 +1,16 @@
+<section id="{{ id }}" class="module">
+<article class="module-content grid-x grid-padding-x">
+<div class="cell small-12">
+
+{{ content }}
+
+</div>
+</article>
+{% if aside != nil and aside != empty %}
+<aside class="module-aside tile">
+
+{{ aside }}
+
+</aside>
+{% endif %}
+</section>

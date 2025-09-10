@@ -1,0 +1,14 @@
+<svg class="lds-spinner" width="32px"  height="32px"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
+    <rect x="47" y="24" rx="0" ry="0" width="6" height="12" fill="#fff" />
+    <rect x="47" y="24" rx="0" ry="0" width="6" height="12" fill="#fff" transform="rotate(30 50 50)" opacity="0.916" />
+    <rect x="47" y="24" rx="0" ry="0" width="6" height="12" fill="#fff" transform="rotate(60 50 50)" opacity="0.833" />
+    <rect x="47" y="24" rx="0" ry="0" width="6" height="12" fill="#fff" transform="rotate(90 50 50)" opacity="0.75" />
+    <rect x="47" y="24" rx="0" ry="0" width="6" height="12" fill="#fff" transform="rotate(120 50 50)" opacity="0.666" />
+    <rect x="47" y="24" rx="0" ry="0" width="6" height="12" fill="#fff" transform="rotate(150 50 50)" opacity="0.583" />
+    <rect x="47" y="24" rx="0" ry="0" width="6" height="12" fill="#fff" transform="rotate(180 50 50)" opacity="0.5" />
+    <rect x="47" y="24" rx="0" ry="0" width="6" height="12" fill="#fff" transform="rotate(210 50 50)" opacity="0.416" />
+    <rect x="47" y="24" rx="0" ry="0" width="6" height="12" fill="#fff" transform="rotate(240 50 50)" opacity="0.333" />
+    <rect x="47" y="24" rx="0" ry="0" width="6" height="12" fill="#fff" transform="rotate(270 50 50)" opacity="0.25" />
+    <rect x="47" y="24" rx="0" ry="0" width="6" height="12" fill="#fff" transform="rotate(300 50 50)" opacity="0.166" />
+    <rect x="47" y="24" rx="0" ry="0" width="6" height="12" fill="#fff" transform="rotate(330 50 50)" opacity="0.083" />
+</svg>
